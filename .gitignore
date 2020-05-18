@@ -21,3 +21,11 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#Otras opciones para useEffect en ciclo de componentes en Home.js
+useEffect(()=>{
+console.log('Componentdidupdate')
+},)
+useEffect(()=>{
+console.log('Componentdidupdate')
+ },)
